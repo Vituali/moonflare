@@ -1,0 +1,12 @@
+{
+  "name": "Moonflare Development",
+  "short_name": "Moonflare",
+  "description": "Engineering portfolio of Victor Henrique — software, systems, and automation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "icons": [
+    { "src": "/logo-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

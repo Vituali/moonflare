@@ -1,0 +1,21 @@
+# Moonflare Development (llms.txt)
+
+> Experimental discovery aid for public portfolio content. This is not a replacement for robots.txt, sitemap.xml, or standard SEO signals.
+
+## Site
+- Name: Moonflare Development
+- Canonical: https://moonflare.com.br/
+- Languages: English (/) and Brazilian Portuguese (/pt/)
+- Owner: Victor Henrique (IT Solutions Analyst, Mechatronics Engineering student), Teresópolis, RJ, Brazil
+
+## Public pages
+- Home (EN): https://moonflare.com.br/
+- Home (PT-BR): https://moonflare.com.br/pt/
+- Projects (EN): https://moonflare.com.br/projects/nexus/, https://moonflare.com.br/projects/ati-v2/, https://moonflare.com.br/projects/sgp-migration-automator/, https://moonflare.com.br/projects/production-line-supervisor/
+- Projects (PT-BR): https://moonflare.com.br/pt/projects/nexus/, https://moonflare.com.br/pt/projects/ati-v2/, https://moonflare.com.br/pt/projects/sgp-migration-automator/, https://moonflare.com.br/pt/projects/production-line-supervisor/
+- Sitemap: https://moonflare.com.br/sitemap.xml
+
+## Notes
+- Content is based on verified information only. Private/confidential project details are intentionally omitted.
+- Verified profiles: https://github.com/Vituali, https://linkedin.com/in/victorhen
+- Core message: "Engineering systems. Automating complexity."
